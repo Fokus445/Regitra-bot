@@ -2,8 +2,8 @@
 
 ![Screenshot](img/poster.jpg)
 
-[!NOTE]
-This is the first real problem-solving project I made after learning Python in 2021. It doesn't work anymore.
+> [!NOTE]
+> This is the first real problem-solving project I made after learning Python in 2021. It doesn't work anymore.
 
 ## Overview
 
